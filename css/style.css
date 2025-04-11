@@ -19,7 +19,7 @@ body {
 .titulo_forma {
     background-color: #f0f0f0;
     display: flex;
-    /*justify-content: center;*/
+    justify-content: center;
     align-items: center;
     padding: 20px 0;
     border-radius: 5px;
